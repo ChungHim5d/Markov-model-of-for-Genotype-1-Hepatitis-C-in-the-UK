@@ -273,7 +273,7 @@ load("../data/working.RData")
 
 ## Discussion
 
-This study demonstrates that DAA treatment is cost-effective for the base case with the chosen cohort. The robustness of these findings was evaluated by conducting the PSA, confirming the economic benefits of DAA treatment. Given that the range of ICER threshold from £20000 to £30000 by NICE guidance, there was a high probability that the use of DAA regimen would be cost-effective, ranging from 62% to 77%.
+This study demonstrates that DAA treatment is cost-effective for the base case with the chosen cohort. The robustness of these findings was evaluated by conducting the PSA, confirming the economic benefits of DAA treatment. Given that the range of ICER threshold from £20000 to £30000 by NICE guidance, there was a high probability that the use of DAA regimen would be cost-effective, ranging from 62% to 80%.
 
 The fibrosis stage distribution of the patient cohort is crucial in determining the cost-effectiveness of DAA treatment from the UK NHS perspective. Based on the author’s knowledge, there are limited existing studies that evaluated patients at the more advanced fibrosis stage [@Foster2016; @Kamp2019]. Allowing patients with fibrosis F4 to be entered the model at the very beginning is a strength in reflecting the realistic situation. It also suggested that greater benefits could be generated if sicker patients were prioritized to be treated with DAA regimen.
 
